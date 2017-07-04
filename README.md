@@ -1,2 +1,4 @@
-# functional-style-transfer
-minimal implementation of style transfer
+Functional style transfer
+============
+
+Minimal reimplementation of <https://github.com/leongatys/PytorchNeuralStyleTransfer> with PyTorch functional interface.
